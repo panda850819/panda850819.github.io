@@ -1,16 +1,15 @@
-
 <html>
   <head>
     <meta charset="UTF-8">
-    <title> 在页面中使用web3.js 进行转账 Demo</title>
+    <title> 转账 Demo</title>
 
     <link rel="stylesheet" type="text/css" href="main.css">
-    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+    <script src="web3.min.js"></script>
   </head>
 
   <body>
     <div class="container">
-        <h1>在页面中使用web3.js 进行转账 Demo</h1>
+        <h1>转账 Demo</h1>
         <h2 id="env"> </h2>
         <h2 id="account"> </h2>
         <label >源账号:</label>
@@ -26,40 +25,35 @@
 
         <button onclick="sendTransaction()">发送</button>
         <div id="transactionResponse"></div>
-        <div>注：此Demo是视频课程：
-          <a href="https://wiki.learnblockchain.cn/course/dapp.html" target="_blank">区块链全栈-以太坊DAPP开发实战</a>
-          所使用案例讲解之一，想要学习去中心化应用开发，这门课程不容错过。
-          <br/>
-          Demo代码地址见<a href="https://github.com/xilibi2003/DAppDemos" target="_blank">链接</a>
-        </div>
 
     </div>
 
 </div>
 
 <script src="jquery.js"></script>
-<script>
-    window.addEventListener('load', function() {
-        if (typeof web3 !== 'undefined') {
-            web3 = new Web3(web3.currentProvider);
-            if (web3.currentProvider.isMetaMask == true) {
-                $("#env").html("MetaMask可用");
-            } else {
-                $("#env").html("非MetaMask环境");
-            }
-        } else {
-            $("#env").html("No web3? 需要安装<a href='https://metamask.io/'>MetaMask</a>!");
-        }
-
-        web3.eth.getAccounts(function (err, accounts) {
-            if (accounts.length == 0) {
-                $("#account").html("请检查钱包是否解锁");
-            } else {
-                $("#account").html("");
-            }
-              console.log("default: " + web3.eth.defaultAccount);
+        <script>
+            window.addEventListener('load', function() {
+                if (typeof web3 !== 'undefined') {
+                    web3 = new Web3(web3.currentProvider);
+                    if (web3.currentProvider.isMetaMask == true) {
+                        $("#env").html("MetaMask可用");
+                    } else {
+                        $("#env").html("非MetaMask环境");
+                    }
+                } else {
+                    $("#env").html("No web3? 需要安装<a href='https://metamask.io/'>MetaMask</a>!");
+                }
             });
-    });
+
+            web3.eth.getAccounts(function (err, accounts) {
+                if (accounts.length == 0) {
+                    $("#account").html("请检查钱包是否解锁");
+                } else {
+                    $("#account").html("");
+                }
+                console.log(web3.eth.defaultAccount);
+                });
+
 
     function sendTransaction() {
         var fromAccount = $('#fromAccount').val();
@@ -85,7 +79,7 @@
 
             // Example 3: 使用默认账号
             // web3.eth.defaultAccount = fromAccount;
-
+            
             var message = {to:toAccount, value: web3.toWei(amount, 'ether')};
 
             web3.eth.sendTransaction(message, (err, res) => {
@@ -101,6 +95,7 @@
             console.log("input error");
         }
     }
-</script>
-</body>
+
+        </script>
+  </body>
 </html>
