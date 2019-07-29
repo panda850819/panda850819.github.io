@@ -48,5 +48,6 @@
 - *講者* / 成大區塊鏈研究社
 
 ## 社群
+- *Deputy chief of education* / 台灣區塊鏈大學聯盟TBA
 - *founder* / 高科大區塊鏈研究社
 - *member* / 政大區塊鏈研究社
