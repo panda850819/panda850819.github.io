@@ -2,7 +2,6 @@
 # 曾暐傑 PANDA
 *National Kaohsiung University of Science and Technology*  
 **Email: kiss851990@gmail.com**  
-**Phone: (+886) 909581690**
 
 ## 簡歷
 我是曾暐傑(Panda)，目前對分享區塊鏈知識與網頁相關技術充滿熱忱，也有製作個人技術Blog在[medium](https://medium.com/open-coding-style)上，未來希望可以製作讓不懂相關技術的人又可以簡易入門的文章。我擅長分享與編撰簡單清楚的學習筆記。能依據不同目標需求撰寫文案、文章、製作投影片。為了打造我心中的目標，選擇成為一名區塊鏈工程師來學習我需要的技能與知識。
