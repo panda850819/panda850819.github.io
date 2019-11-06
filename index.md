@@ -4,16 +4,16 @@
 **Email: kiss851990@gmail.com**  
 
 ## 簡歷
-我是曾暐傑(Panda)，目前對分享區塊鏈知識與網頁相關技術充滿熱忱，也有製作個人技術Blog在[medium](https://medium.com/open-coding-style)上，未來希望可以製作讓不懂相關技術的人又可以簡易入門的文章。我擅長分享與編撰簡單清楚的學習筆記。能依據不同目標需求撰寫文案、文章、製作投影片。為了打造我心中的目標，選擇成為一名區塊鏈工程師來學習我需要的技能與知識。
+我是 Panda，熱愛分享區塊鏈科普知識以及網頁前後端相關技術，現也有發佈文章在個人 [Blog](https://medium.com/@kiss851990)、[ASMOND](https://medium.com/asmond)、[From Zero To Hero](https://medium.com/open-coding-style)，希望可以製作讓不懂相關技術的人也可以輕鬆入門的文章，近期也分享一些心得在 [IT邦幫忙的鐵人賽](https://ithelp.ithome.com.tw/users/20118325/ironman/2618)中，目前在 [Cypherpunks Taiwan](https://github.com/cypherpunks-core)翻譯一些英文的文獻或論文，也曾到多處分享區塊鏈相關經驗。
 
 ## 學歷
-國立高雄科技大學資管所 (2018/09 ~ 2019/02 就學中)   
+國立高雄科技大學商資所 (2018/09 ~ 2019/02 就學中)   
 國立高雄科技大學資管系 (2014/09 ~ 2018/06)
 
 ## 經歷
 - Google for Eduvator 業展資訊 Backend Intern (2017/07 ~ 2017/09)
-- 宥星國際有限公司 PT (2018/09 ~ 現今)
 - DEXON 校園大使 (2019/02 ~ 2019/06)
+- 宥星國際有限公司 RD (2018/09 ~ 現今)
 
 ## 競賽經歷
 
@@ -35,6 +35,7 @@
 ## 程式開發
 - Java實現影像壓縮 [link](https://github.com/panda850819/palette)
 - I-Petition(區塊鏈實現P2P之電子投票) [link](https://github.com/panda850819/i-Petition)
+- WhiteBox Poc [link](https://github.com/panda850819/whitebox)
 
 
 ## 教學
@@ -45,8 +46,11 @@
 - *講者* / 好想工作室
 - *講者* / 高雄讀書會
 - *講者* / 成大區塊鏈研究社
+- *講者* / 北科大區塊鏈研究社
+- *講者* / 東吳區塊鏈研究社
 
 ## 社群
 - *Deputy chief of education* / 台灣區塊鏈大學聯盟TBA
+- *core member* / [密碼龐克台灣 cypherpunks taiwan](https://github.com/cypherpunks-core) 
 - *founder* / 高科大區塊鏈研究社
 - *member* / 政大區塊鏈研究社
