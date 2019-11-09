@@ -1,7 +1,7 @@
 <!-- # Wei-Jie Zeng -->
 # 曾暐傑 PANDA
 *National Kaohsiung University of Science and Technology*  
-**Email: kiss851990@gmail.com**  
+**Email: pandap.d819@gmail.com**  
 
 ## 簡歷
 我是 Panda，熱愛分享區塊鏈科普知識以及網頁前後端相關技術，現也有發佈文章在個人 [Blog](https://medium.com/@kiss851990)、[ASMOND](https://medium.com/asmond)、[From Zero To Hero](https://medium.com/open-coding-style)，希望可以製作讓不懂相關技術的人也可以輕鬆入門的文章，近期也分享一些心得在 [IT邦幫忙的鐵人賽](https://ithelp.ithome.com.tw/users/20118325/ironman/2618)中，目前在 [Cypherpunks Taiwan](https://github.com/cypherpunks-core)翻譯一些英文的文獻或論文，也曾到多處分享區塊鏈相關經驗。
