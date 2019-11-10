@@ -40,6 +40,7 @@
 
 ## 教學
 - *課程助教* / 高科大統計
+- *課程助教* / 高科大計算機概論
 - *課程助教* / 高科大資訊安全
 - *作者* / Medium專欄(From Zero To Hero) [link](https://medium.com/open-coding-style)
 - *校園大使* / DEXON Foundation
