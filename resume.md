@@ -4,7 +4,7 @@
 
 ## 簡歷
 
-我是 Panda，熱愛分享區塊鏈科普知識以及網頁前後端相關技術，在 2018 年接觸區塊鏈以及 2020 年進入幣圈參與投資及 DEFI 項目構建，現也有發佈文章在個人 [Medium]](https://medium.com/@kiss851990)、[WalkinCat](https://medium.com/walkincat)以及 [FromZeroToHero](https://fzth-blockchain.github.io/fzth/)，希望可以製作讓不懂相關技術的人也可以輕鬆入門的文章，在 2019 年也有分享一些關於區塊鏈心得在 [IT邦幫忙的鐵人賽](https://ithelp.ithome.com.tw/users/20118325/ironman/2618)中，在 [Cypherpunks Taiwan](https://github.com/cypherpunks-core)翻譯文獻與論文。
+我是 Panda，熱愛分享區塊鏈科普知識以及網頁前後端相關技術，在 2018 年接觸區塊鏈以及 2020 年進入幣圈參與投資及 DEFI 項目構建，現也有發佈文章在個人 [Medium](https://medium.com/@kiss851990)、[WalkinCat](https://medium.com/walkincat) 以及 [FromZeroToHero](https://fzth-blockchain.github.io/fzth/)，希望可以製作讓不懂相關技術的人也可以輕鬆入門的文章，在 2019 年也有分享一些關於區塊鏈心得在 [IT邦幫忙的鐵人賽](https://ithelp.ithome.com.tw/users/20118325/ironman/2618)中，在 [Cypherpunks Taiwan](https://github.com/cypherpunks-core) 翻譯文獻與論文。
 ## 學歷
 國立高雄科技大學商資所(原資管所) (2018/09 ~ 2020/06 休學中)   
 國立高雄科技大學資管系 (2014/09 ~ 2018/06)
@@ -13,6 +13,7 @@
 - Google for Eduvator 業展資訊 Backend Intern (2017/07 ~ 2017/09)
 - DEXON 校園大使 (2019/02 ~ 2019/06)
 - 宥星國際有限公司 RD (2018/09 ~ 2020/05)
+- MatrixPort 大使 (2020/02 ~)
 
 ## 競賽經歷
 
@@ -51,7 +52,7 @@
 
 ## 社群
 - *founder* / [WalkinCat](https://t.me/joinchat/IPlUvBkLbCYj8brsZYKs9Q) 
-- *Supervisor* / 台灣區塊鏈大學聯盟TBA
+- *Supervisor* / [台灣區塊鏈大學聯盟TBA](https://www.facebook.com/TaiwanBlockchainAcademia/)
 - *Deputy chief of education* / 台灣區塊鏈大學聯盟TBA
 - *core member* / [密碼龐克台灣 cypherpunks taiwan](https://github.com/cypherpunks-core) 
 - *founder* / 高科大區塊鏈研究社
